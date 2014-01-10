@@ -16,19 +16,19 @@
                         "children":
                         [
                             {
-                                "command": "open_file", 
-                                "args": {"file": "${packages}/Tortoise/Tortoise.sublime-settings"},
+                                "command": "open_file",
+                                "args": {"file": "${packages}/sublime_tortoise/Tortoise.sublime-settings"},
                                 "caption": "Settings – Default"
                             },
                             {
-                                "command": "open_file", 
+                                "command": "open_file",
                                 "args": {"file": "${packages}/User/Tortoise.sublime-settings"},
                                 "caption": "Settings – User"
                             },
                             {
                                 "command": "open_file",
                                 "args": {
-                                    "file": "${packages}/Tortoise/Default (Windows).sublime-keymap",
+                                    "file": "${packages}/sublime_tortoise/Default (Windows).sublime-keymap",
                                     "platform": "Windows"
                                 },
                                 "caption": "Key Bindings – Default"
